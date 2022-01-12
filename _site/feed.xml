@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-12T17:25:36+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2022/01/12/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-01-12T15:49:46+09:00</published><updated>2022-01-12T15:49:46+09:00</updated><id>http://localhost:4000/jekyll/update/2022/01/12/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/01/12/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/https://ihpolyphe.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/https://ihpolyphe.github.io/" rel="alternate" type="text/html" /><updated>2022-01-12T22:48:01+09:00</updated><id>http://localhost:4000/https://ihpolyphe.github.io/feed.xml</id><title type="html">Anylike</title><subtitle>This is the demo site for a Jekyll theme version of HTML5 UP&apos;s sleek, responsive site template Prologue.</subtitle><author><name>ihpolyphe</name></author><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/https://ihpolyphe.github.io/jekyll/update/2022/01/12/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-01-12T15:49:46+09:00</published><updated>2022-01-12T15:49:46+09:00</updated><id>http://localhost:4000/https://ihpolyphe.github.io/jekyll/update/2022/01/12/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/https://ihpolyphe.github.io/jekyll/update/2022/01/12/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 
@@ -14,7 +14,7 @@
 <span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
 <span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">github pagesでjekyllを使ったwebページ作成</title><link href="http://localhost:4000/jekyll/2022/01/12/jekyll_github_pages_setup.html" rel="alternate" type="text/html" title="github pagesでjekyllを使ったwebページ作成" /><published>2022-01-12T00:00:00+09:00</published><updated>2022-01-12T00:00:00+09:00</updated><id>http://localhost:4000/jekyll/2022/01/12/jekyll_github_pages_setup</id><content type="html" xml:base="http://localhost:4000/jekyll/2022/01/12/jekyll_github_pages_setup.html"><![CDATA[<h2 id="github-pagesでjekyllを使ってwebページを作成するまでの手順">github pagesでjekyllを使ってwebページを作成するまでの手順</h2>
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>ihpolyphe</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">github pagesでjekyllを使ったwebページ作成</title><link href="http://localhost:4000/https://ihpolyphe.github.io/jekyll/2022/01/12/jekyll_github_pages_setup.html" rel="alternate" type="text/html" title="github pagesでjekyllを使ったwebページ作成" /><published>2022-01-12T00:00:00+09:00</published><updated>2022-01-12T00:00:00+09:00</updated><id>http://localhost:4000/https://ihpolyphe.github.io/jekyll/2022/01/12/jekyll_github_pages_setup</id><content type="html" xml:base="http://localhost:4000/https://ihpolyphe.github.io/jekyll/2022/01/12/jekyll_github_pages_setup.html"><![CDATA[<h2 id="github-pagesでjekyllを使ってwebページを作成するまでの手順">github pagesでjekyllを使ってwebページを作成するまでの手順</h2>
 <p>無料でブログを作成したい方にとってgithub pagesはとても魅力的です。xfreeなどの無料サーバーでwordpressを使いつつ運営することも可能ですが、個人的にgithub pagesを使ってみたいという気持ちがあったので使用しました。</p>
 
 <p>github pagesを使ってwebページを作成するまでの流れは以下です。</p>
@@ -26,7 +26,6 @@
   <li>github pages用リポジトリの作成</li>
   <li>jekyllプロジェクト作成</li>
   <li>記事を作成</li>
-  <li>githubにpush</li>
 </ol>
 
 <p>かなりやることは多いです。特にgitの知識がないと苦労するかもしれません。（私がそうでした、、）ただgitの勉強にもなるので初心者の方はがんばってみてください。
@@ -73,7 +72,88 @@ jekyll -v
 以下の画像のようにリポジトリ作成画面から<code class="language-plaintext highlighter-rouge">&lt;アカウント名&gt;.github.io</code>のリポジトリを作成します。
 リポジトリはよほどのことがない限りpublicで良いでしょう。</p>
 
-<p>リポジトリを作成したらローカル環境にクローンする。ページのURLをコピーして、git bashにて以下のコマンドでクローンする。
-    git clone <コピーしたリポジトリのURL></コピーしたリポジトリのURL></p>
+<p>リポジトリを作成したらローカル環境にクローンする。ページのURLをコピーして、git bashにて以下のコマンドでクローンする。</p>
 
-<p>これでローカル環境にリポジトリを落とすことができました。次のjekyllプロジェクトの作成でwebページを作成していきます。</p>]]></content><author><name></name></author><category term="jekyll" /><summary type="html"><![CDATA[github pagesでjekyllを使ってwebページを作成するまでの手順 無料でブログを作成したい方にとってgithub pagesはとても魅力的です。xfreeなどの無料サーバーでwordpressを使いつつ運営することも可能ですが、個人的にgithub pagesを使ってみたいという気持ちがあったので使用しました。]]></summary></entry></feed>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone &lt;コピーしたリポジトリのURL&gt;
+</code></pre></div></div>
+
+<p>これでローカル環境にリポジトリを落とすことができました。次のjekyllプロジェクトの作成でwebページを作成していきます。</p>
+
+<h3 id="6-jekyllプロジェクト作成">6 jekyllプロジェクト作成</h3>
+<p>ようやくwebページの作成を行うことができるようになりました。
+まずはjekyllプロジェクトを以下のコマンドで作成します。</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jekyll new test_project
+</code></pre></div></div>
+
+<p>こうすることでwebページを作成するための様々なファイルが生成されます。
+次にプロジェクトをスタートさせます。</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle exec jekyll serve
+</code></pre></div></div>
+
+<p>成功したら、以下のコマンドでローカル環境でサイトの中身を確認することができます。</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jekyll s
+</code></pre></div></div>
+
+<p>私の場合このコマンドを打った際に``require’: cannot load such file – webrick (LoadError)`エラーで動きませんでした。
+その場合以下のコマンドを入力します。</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle add webrick
+</code></pre></div></div>
+
+<p>こうすることで<code class="language-plaintext highlighter-rouge">jekyll s</code>でローカル環境でサイトが確認できるので、<a href="http://127.0.0.1:4000/"> http://127.0.0.1:4000/</a>から見てみます。サイトが立ち上がっていることがわかります。</p>
+
+<p>こうなればあとはgithubにpushするだけです。
+<code class="language-plaintext highlighter-rouge">test</code>で作成したプロジェクトを先ほどcloneした<code class="language-plaintext highlighter-rouge">&lt;アカウント名&gt;.github.io</code>へ移しましょう。</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd test/
+git mv -r * ../&lt;アカウント名&gt;.github.io
+cd ../ &amp;&amp; cd &lt;アカウント名&gt;.github.io
+git add .
+git commit -m "add jekyll project"
+git push
+</code></pre></div></div>
+
+<p>以上のコマンドが上手くいった場合、先ほど作成したgithubのアカウントのページでプロジェクトが反映されていることがわかります。</p>
+
+<h3 id="7-記事を作成">7 記事を作成</h3>
+<p>最後に自分で記事を作成する方法を説明します。
+まずはjekyllプロジェクトの<code class="language-plaintext highlighter-rouge">/_post</code>にmarkdownファイルを作成します。</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd &lt;githubアカウント&gt;.github.io/_post
+vim yyyy/mm/dd-how-to-make-article-of-jekyll.markdown
+</code></pre></div></div>
+
+<p>上記はコマンドで記載するためvimを使っていますが、基本は<a href="https://azure.microsoft.com/ja-jp/products/visual-studio-code/">visual studio code</a>などのエディタで作成するのが良いです。</p>
+
+<p>中身は以下のようにマークダウン方式で記載していきます。書き方がわからない方は<a href="https://qiita.com/tbpgr/items/989c6badefff69377da7">こちら</a>のページを参照ください。</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>---
+layout: post
+title:  "github pagesでjekyllを使ったwebページ作成"
+date:   2022-01-12 +0900
+categories: jekyll 
+---
+
+# markdown方式で記事を作成
+</code></pre></div></div>
+<p>この方法でページ作成が完了したら、後は先ほどと同様githubにpushします。</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd &lt;アカウント名&gt;.github.io
+git add &lt;ファイル名&gt;
+git commit -m "add new article"
+git push
+</code></pre></div></div>
+
+<p>この作業が完了したら、先ほど作成したmarkdownファイルがgithubにアップロードされていることを確認し、５分ほど待つと、以下のURLに作成した記事が追加されています。</p>
+
+<ul>
+  <li>https://<githubアカウント名>.github.io</githubアカウント名></li>
+</ul>
+
+<h2 id="終わりに">終わりに</h2>
+<p>今回はgithub pagesでjekyllを使ったページの作成方法についてまとめました。
+今後はマークダウンのtipsであったり、編集方法、プラグインなどについても勉強し、こちらのサイトにページを作っていこうと思います。
+ありがとうございました。</p>]]></content><author><name>ihpolyphe</name></author><category term="jekyll" /><summary type="html"><![CDATA[github pagesでjekyllを使ってwebページを作成するまでの手順 無料でブログを作成したい方にとってgithub pagesはとても魅力的です。xfreeなどの無料サーバーでwordpressを使いつつ運営することも可能ですが、個人的にgithub pagesを使ってみたいという気持ちがあったので使用しました。]]></summary></entry></feed>
