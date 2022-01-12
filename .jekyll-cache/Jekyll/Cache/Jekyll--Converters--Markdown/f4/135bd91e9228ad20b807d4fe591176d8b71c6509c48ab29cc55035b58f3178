@@ -1,0 +1,39 @@
+I"(<h2 id="github-pagesでjekyllを使ってwebページを作成するまでの手順">github pagesでjekyllを使ってwebページを作成するまでの手順</h2>
+<p>無料でブログを作成したい方にとってgithub pagesはとても魅力的です。xfreeなどの無料サーバーでwordpressを使いつつ運営することも可能ですが、個人的にgithub pagesを使ってみたいという気持ちがあったので使用しました。</p>
+
+<p>github pagesを使ってwebページを作成するまでの流れは以下です。</p>
+<ol>
+  <li>gitインストール</li>
+  <li>Rubyインストール</li>
+  <li>jekyllインストール</li>
+  <li>githubアカウント作成</li>
+  <li>github pages用リポジトリの作成</li>
+  <li>jekyllプロジェクト作成</li>
+  <li>記事を作成</li>
+  <li>githubにpush</li>
+</ol>
+
+<p>かなりやることは多いです。特にgitの知識がないと苦労するかもしれません。（私がそうでした、、）ただgitの勉強にもなるので初心者の方はがんばってみてください。
+なお開発環境はwindowsです。</p>
+
+<h3 id="1-gitのインストール">1 gitのインストール</h3>
+<p>windowsの場合gitは公式ホームページからexeファイルをダウンロードします。
+<a href="https://git-for-windows.github.io/">https://git-for-windows.github.io/</a>
+ダウンロードしたら.exeファイルを開き、インストールまで進みます。基本<code class="language-plaintext highlighter-rouge">next</code>でokです。</p>
+
+<p>gitのインストールが完了したら、git bashと呼ばれるターミナルが開かれますので、他のソフトはここからインストールしました。（もちろんコマンドプロンプトでも問題ないと思います）
+詳しいgitのインストール方法は<a href="https://prog-8.com/docs/git-env-win">こちら</a>を参考にしました。</p>
+
+<h3 id="2-rubyのインストール">2 Rubyのインストール</h3>
+<p>Jekyll（ジキル）は静的サイトの生成を行うための、Rubyのパッケージです。よってRubyをインストールしないとjekyllも使うことができないということですね。（numpyを使うためにはpythonを入れないといけないみたいな）</p>
+
+<p>Rubyのインストールも、windowsの場合gitと同様、exeファイルを公式ホームページからダウンロードします。
+<a href="https://rubyinstaller.org/downloads/">https://rubyinstaller.org/downloads/</a></p>
+
+<p>私は<a href="https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.0.3-1/rubyinstaller-devkit-3.0.3-1-x64.exe"> Ruby+Devkit 3.0.3-1 (x64) </a>をダウンロードして動作環境に問題がないことを確認しています。</p>
+
+<p>exeファイルがダウンロード完了したら開き、インストールまで進みます。
+完了したら、git bashで以下のコマンドで、Rubyのバージョンが記載されるようになったらインストール完了です。
+    # Tab
+    ruby -v</p>
+:ET
