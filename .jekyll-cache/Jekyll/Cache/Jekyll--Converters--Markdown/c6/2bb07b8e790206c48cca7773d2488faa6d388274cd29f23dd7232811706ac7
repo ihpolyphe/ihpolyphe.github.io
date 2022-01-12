@@ -1,73 +1,4 @@
-<!DOCTYPE HTML>
-<!--
-Prologue by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-Jekyll integration by Chris Bobbe | chrisbobbe.github.io
--->
-<html><head><!-- Robots -->
-  <meta name="robots" content="index, follow" /><link rel="canonical" href="http://localhost:4000/https://ihpolyphe.github.io/jekyll/2022/01/12/jekyll_github_pages_setup.html" /><!-- Title, description, author --><title>github pagesでjekyllを使ったwebページ作成 | Anylike - 好きなものを好きなだけ</title>
-  <meta name="description" content="This is the demo site for a Jekyll theme version of HTML5 UP&#39;s sleek, responsive site template Prologue." />
-  <meta name="author" content="ihpolyphe" />
-  
-  <!-- Open Graph -->
-  <meta property="og:title" content="github pagesでjekyllを使ったwebページ作成 | Anylike - 好きなものを好きなだけ" />
-  <meta property="og:type" content="website" />
-  <meta property="og:image" content="http://localhost:4000/https://ihpolyphe.github.io/assets/images/avatar.jpg" />
-  <meta property="og:url" content="http://localhost:4000/https://ihpolyphe.github.io/jekyll/2022/01/12/jekyll_github_pages_setup.html" />
-  <meta property="og:site_name" content="Anylike" />
-  <meta property="og:description" content="This is the demo site for a Jekyll theme version of HTML5 UP&#39;s sleek, responsive site template Prologue." />
-  
-  <!-- Styles -->
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <!--[if lte IE 8]><script src="/https://ihpolyphe.github.io/assets/js/ie/html5shiv.js" defer></script><![endif]-->
-  <link rel="stylesheet" href="/https://ihpolyphe.github.io/assets/css/main.css" />
-  <!--[if lte IE 8]><link rel="stylesheet" href="/https://ihpolyphe.github.io/assets/css/ie8.css" /><![endif]-->
-  <!--[if lte IE 9]><link rel="stylesheet" href="/https://ihpolyphe.github.io/assets/css/ie9.css" /><![endif]-->
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
-
-  <!-- Scripts -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" defer></script>
-  <script src="/https://ihpolyphe.github.io/assets/js/jquery.scrolly.min.js" defer></script>
-  <script src="/https://ihpolyphe.github.io/assets/js/jquery.scrollzer.min.js" defer></script>
-  <script src="/https://ihpolyphe.github.io/assets/js/skel.min.js" defer></script>
-  <script src="/https://ihpolyphe.github.io/assets/js/util.js" defer></script>
-  <!--[if lte IE 8]><script src="/https://ihpolyphe.github.io/assets/js/ie/respond.min.js" defer></script><![endif]-->
-  <script src="/https://ihpolyphe.github.io/assets/js/main.js" defer></script>
-
-</head><body><!-- Header -->
-<div id="header">
-  <div class="top"><!-- Logo -->
-<div id="logo">
-  <a href="http://localhost:4000/https://ihpolyphe.github.io/" id="home-link">
-    <span class="image avatar48"><img src="/https://ihpolyphe.github.io/assets/images/avatar.jpg" alt="Avatar of ihpolyphe" /></span>
-    <h1 id="title">Anylike</h1>
-    <p>好きなものを好きなだけ</p>
-  </a>
-</div><!-- Nav -->
-<nav id="nav">
-  <ul><li><a href="http://localhost:4000/https://ihpolyphe.github.io/about/" id="about-link">
-            <span class="icon fa-link">About</span>
-          </a></li><li><a href="http://localhost:4000/https://ihpolyphe.github.io/" id="home-link">
-            <span class="icon fa-link">home</span>
-          </a></li><li><a href="http://localhost:4000/https://ihpolyphe.github.io/404.html" id="default-link">
-            <span class="icon fa-link">default</span>
-          </a></li></ul>
-</nav></div>
-  <div class="bottom"><!-- Social Icons -->
-<ul class="icons"><li><a href="mailto:hayato.8124950@gmail.com" class="icon fa-envelope"><span class="label">Email</span></a></li></ul>
-</div>
-</div>
-<!-- Main -->
-<div id="main">
-	<!-- Post -->
-	<article class="shade-two">
-	  <div class="container">
-			<header>
-				<h2>github pagesでjekyllを使ったwebページ作成</h2>
-				<p>12 January 2022</p>
-			</header><h2 id="github-pagesでjekyllを使ってwebページを作成するまでの手順">github pagesでjekyllを使ってwebページを作成するまでの手順</h2>
+I",(<h2 id="github-pagesでjekyllを使ってwebページを作成するまでの手順">github pagesでjekyllを使ってwebページを作成するまでの手順</h2>
 <p>無料でブログを作成したい方にとってgithub pagesはとても魅力的です。xfreeなどの無料サーバーでwordpressを使いつつ運営することも可能ですが、個人的にgithub pagesを使ってみたいという気持ちがあったので使用しました。</p>
 
 <p>github pagesを使ってwebページを作成するまでの流れは以下です。</p>
@@ -210,19 +141,4 @@ git push
 <p>今回はgithub pagesでjekyllを使ったページの作成方法についてまとめました。
 今後はマークダウンのtipsであったり、編集方法、プラグインなどについても勉強し、こちらのサイトにページを作っていこうと思います。
 ありがとうございました。</p>
-</div>
-	</article>
-</div><!-- Footer -->
-<div id="footer">
-  
-  <!-- Copyright -->
-  <ul class="copyright">
-    
-      <li>&copy;Anylike. All rights reserved.</li>
-    
-    <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-    <li>Jekyll integration: <a href="https://chrisbobbe.github.io/">Chris Bobbe</a></li>
-  </ul>
-  
-</div></body>
-</html>
+:ET
